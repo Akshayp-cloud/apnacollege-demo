@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my First Repository. 
 <br>
-Author - Novoneel Chakrabortty
+Author - Novoneel Chakravarty
 
